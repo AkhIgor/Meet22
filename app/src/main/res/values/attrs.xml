@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyCustomView">
+        <attr name="length" format="integer"/>
+        <attr name="width" format="integer"/>
+        <attr name="color" format="color"/>
+        <attr name="coordinateX" format="integer"/>
+        <attr name="coordinateY" format="integer"/>
+    </declare-styleable>
+</resources>
